@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://momaher.000webhostapp.com](https://momaher.000webhostapp.com)
 
-- 📝 I regularly write articles on [Software Topics](Software Topics)
+- 📝 I regularly write articles on [Software Topics]
 
 - 💬 Ask me about **Laravel**
 
