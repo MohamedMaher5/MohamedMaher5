@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Docker](https://www.docker.com)
 
-- 👨‍💻 All of my projects are available at [https://momaher.000webhostapp.com](https://momaher.000webhostapp.com)
+- 👨‍💻 All of my projects are available at [https://mohamedmaher5.github.io](https://mohamedmaher5.github.io)
 
 - 📝 I regularly write articles on **Software Topics**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mohamedmaher055@gmail.com**
 
-- 📄 Know about my experiences [https://momaher.000webhostapp.com/MohamedMaher.pdf](https://momaher.000webhostapp.com/MohamedMaher.pdf)
+- 📄 Know about my experiences [https://mohamedmaher5.github.io/MohamedMaher.pdf](https://mohamedmaher5.github.io/MohamedMaher.pdf)
 
 - ⚡ Fun fact **Pay attention to the details and at the same time forget the important details**
 
